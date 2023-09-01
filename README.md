@@ -1,8 +1,6 @@
 # Classic-Utility-Jacket-Card
 
 <h2>Hosted Link:- https://lok-ii.github.io/Classic-Utility-Jacket-Card/dist/index.html</h2>
-<br>
-<br>
 
 # Description:
 
